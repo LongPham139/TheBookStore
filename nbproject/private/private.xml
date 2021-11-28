@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/web/viewCart.jsp</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/servlet/DispatchServlet.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/web/adminDiscount.jsp</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/servlet/SearchUserServlet.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/servlet/AddProductServlet.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/web/detailProduct.jsp</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/servlet/SearchDiscountServlet.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/servlet/SearchBookServlet.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/user/UserDAO.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/order/OrderDAO.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/product/ProductDAO.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/src/java/longpt/discount/DiscountDAO.java</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/web/adminUser.jsp</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/web/shopping.jsp</file>
+            <file>file:/E:/CN5/Practice-Lab/Lab-0018/TheBookStore/web/adminBook.jsp</file>
+        </group>
+    </open-files>
+</project-private>
